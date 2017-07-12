@@ -1,0 +1,2 @@
+export const QUERY_LIST = 'QUERY_LIST'
+export const QUERY_DETAIL_BY_MONTH = 'QUERY_DETAIL_BY_MONTH'
